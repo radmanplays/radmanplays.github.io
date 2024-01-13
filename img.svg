@@ -1,12 +1,11 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
+  <link href="style.css" rel="stylesheet" />
             <style>
                 .fontmc {
-    font-family: Minecraft;
-    font-display: swap;
-    src: url('https://raw.githubusercontent.com/radmanplays/radmanplays.github.io/main/MinecraftRegular-Bmg3.otf') format('truetype');
-}
+                            font-family: Minecraft;
+                 }
               a {font-size: 2em;padding: 10px;background-color: gray;color: white;border: none;border-radius: 5px;text-decoration: none;max-width: 100%;width: 450px;text-align: center;display: block;margin:auto;transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .5s ease-in-out;
             </style>
             <h1 class="fontmc">this website has moved to a new url because of DMCA</h1>
